@@ -3,6 +3,17 @@
 <h1 align="center">
     <img src=".github/logo.svg" width="500">
 </h1>
+<h2 align="center">
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/static/v1?label=Node&message=JS&color=blue?style=plastic&logo=Node.js" alt="NodeJS" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/static/v1?label=React&message=JS&color=blue?style=plastic&logo=React" alt="ReactJS" />
+  </a>
+  <a href="https://reactnative.dev/">
+    <img src="https://img.shields.io/static/v1?label=React&message=Native&color=blue?style=plastic&logo=React" alt="React-Native" />
+  </a>
+</h2>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luizpedrosm/omnistack-11?color=%2304D361">
