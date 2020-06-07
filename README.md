@@ -1,7 +1,7 @@
 # Semana OmniStack 11.0 - Be The Hero
 
 <h1 align="center">
-    <img src=".github/logo.svg" width="600">
+    <img src=".github/logo.svg" width="500">
 </h1>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ## 💻 Projeto
 
-Ecoleta é um projeto que visa ajudat pessoas a encontrarem pontos de coleta de forma eficiente.
+Ecoleta é um projeto que visa ajudar pessoas a encontrarem pontos de coleta de forma eficiente.
 
 ## 📷 Imagens
 
@@ -38,6 +38,8 @@ Ecoleta é um projeto que visa ajudat pessoas a encontrarem pontos de coleta de 
 </h1>
 
 ### 📱 Mobile
+
+'
 
 <p align="center">
     <img alt="Home" title="Home" src=".github/images/mobile/home.jpg" width="45%" />
